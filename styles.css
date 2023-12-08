@@ -1,0 +1,199 @@
+.banner{
+
+    width: 100%;
+    height: 300px
+}
+.banner img{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+.banner2{
+
+    width: 100%;
+    height: 100px
+}
+.banner2 img{
+    
+    object-fit: cover;
+    width: 100%;
+    height: 100px;
+}
+
+#webnam{
+    border: white;
+    font-weight: bold;
+    font-family: cursive;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: cursive;
+}
+
+/* geid layout started */
+.productCard{
+box-shadow: 0 0 5px 2px rgb(166, 166, 166);
+    height: 300px;
+    overflow: hidden;
+}
+
+.productCardImg{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.loginContainer{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   
+}
+
+.px-6{
+    padding: 0 50px;
+}
+
+/* login */
+.loginCard{
+    width: 400px;
+}
+
+
+
+/* photos */
+#men1{
+    margin-left: 60px;
+    width: 220px;
+    height: 235px;
+}
+#men2{
+    margin-left: 60px;
+    width: 220px;
+    height: 235px;
+}
+#men3{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#men4{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#men5{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#men6{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#men7{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#men8{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#men9{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+
+#women1{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women2{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women3{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women4{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women5{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women6{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women7{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women8{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#women9{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid1{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid2{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid3{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid4{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid5{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid6{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid7{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid8{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
+#kid9{
+    margin-left: 70px;
+    width: 200px;
+    height: 235px;
+}
